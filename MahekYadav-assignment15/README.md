@@ -157,7 +157,7 @@ This assignment uses in-memory state. Auction data is reset whenever the server 
 The application is configured to use Render's dynamic `PORT` environment variable:
 
 ```js
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 4000;
 ```
 
 Render settings:
