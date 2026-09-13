@@ -3,12 +3,7 @@
 A real-time auction platform built with Node.js, Express.js and Socket.io.
 
 ## Live Demo
-
-Render URL: **PASTE YOUR RENDER LIVE LINK HERE**
-
-Example:
-
-`https://your-auction-app.onrender.com`
+https://itm-assignment-15-auction-socket-u19a.onrender.com
 
 ## Features
 
